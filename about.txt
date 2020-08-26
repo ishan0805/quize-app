@@ -1,0 +1,3 @@
+This app is developed by basic material design provided by flutter. It is a quiz game app.
+It contains about 13 questions and the user has two option to select from i.e true or false.
+wrong or right answer is shown by a list of icons. At the end of the quiz, the total number of correct answers are shown. I have use concepts like encapsulation and inheritance in this project.
